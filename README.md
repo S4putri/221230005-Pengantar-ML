@@ -1,5 +1,6 @@
 # [221230005] - Pengantar Machine Learning
-# Repository untuk mata kuliah Pengantar Machine Learning - [Ummi Isnani Saputri] - [221230005]
+
+Repository untuk mata kuliah Pengantar Machine Learning - Ummi Isnani Saputri - 221230005
 
 **Nama:** Ummi Isnani Saputri
 **NIM:** 221230005
