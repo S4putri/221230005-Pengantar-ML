@@ -1,4 +1,4 @@
-# [NIM] - Pengantar Machine Learning
+# [221230005] - Pengantar Machine Learning
 
 **Nama:** [Ummi Isnani Saputri]
 **NIM:** [221230005]
