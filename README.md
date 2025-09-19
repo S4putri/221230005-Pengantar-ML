@@ -1,4 +1,4 @@
-# [221230005] - Pengantar Machine Learning
+# 221230005 - Pengantar Machine Learning
 
 Repository untuk mata kuliah Pengantar Machine Learning - Ummi Isnani Saputri - 221230005
 
